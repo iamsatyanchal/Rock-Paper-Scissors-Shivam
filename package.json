@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "react": "16.11.0",
-    "react-native": "0.68.0",
+    "react-native": "0.70.15",
     "react-native-macos": "^0.61.0-0",
     "@snyk/protect": "latest"
   },
